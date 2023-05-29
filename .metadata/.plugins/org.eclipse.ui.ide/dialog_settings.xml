@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="SmartImportWizard">
+		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
+		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
+		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+<<<<<<< HEAD
+			<item value="/Users/andreabarocchi/Desktop/Backend Epicode/BE-Build-Week-1"/>
+=======
+			<item value="/Users/ptn_3manuele/Desktop/java EPICODE/s3/be-u1-w3-d5"/>
+			<item value="/Users/ptn_3manuele/Desktop/BE-Build-Week-1"/>
+			<item value="/Users/ptn_3manuele/Desktop/be-build-week-1/src"/>
+			<item value="/Users/ptn_3manuele/Desktop/be-build-week-1"/>
+>>>>>>> emanuele2.0
+		</list>
+	</section>
+</section>
